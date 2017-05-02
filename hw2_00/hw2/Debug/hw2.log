@@ -1,4 +1,0 @@
-﻿  graphics.cpp
-c:\users\chaelin\documents\visual studio 2015\projects\hw2\hw2\graphics.cpp(204): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  hw2.vcxproj -> c:\users\chaelin\documents\visual studio 2015\Projects\hw2\Debug\hw2.exe
-  hw2.vcxproj -> c:\users\chaelin\documents\visual studio 2015\Projects\hw2\Debug\hw2.pdb (Full PDB)
