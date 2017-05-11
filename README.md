@@ -1,2 +1,0 @@
-# BLE
-WD + APP + BLE
